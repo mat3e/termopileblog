@@ -3,7 +3,6 @@ layout: post
 title: "Komiks \"400\" - pomysł i początki"
 date: 2025-07-03 13:00:00 +0200
 category: komiks
-canonical_url: "https://www.facebook.com/polskietermopile/posts/pfbid0sqBDRswBuXdF2nhxf8xcfQLkiN4aYk139Maz4C1itdVQy4cyhDvJnopz6HyFnqkql"
 ---
 
 Pierwsze notatki związane z komiksem "400" powstały na początku 2019 roku, kiedy - pół żartem, pół serio - pomyślałem o
@@ -30,16 +29,16 @@ Pierwszego poważnego maila związanego z komiksem wysłałem 13 września 2020 
 odzwierciedla cel oraz plany dotyczące "400":
 
 > Dzień dobry,
-> 
+>
 > Od jakiegoś czasu noszę się z zamiarem stworzenia patriotycznego komiksu.
-> 
+>
 > Termopile doczekały się swojej adaptacji w formie "300", a waleczna husaria ze swoimi licznymi dokonaniami wciąż jest
 > za mało obecna w popkulturze. Chciałbym spróbować z komiksem "400", nawiązującym do bitwy pod
 > Hodowem ([https://pl.wikipedia.org/wiki/Bitwa_pod_Hodowem](https://pl.wikipedia.org/wiki/Bitwa_pod_Hodowem)).
-> Odnośnie do samej bitwy, jej przebiegu i ilości wojsk biorących udział toczą się różne dyskusje historyków, natomiast
+> Odnośnie samej bitwy, jej przebiegu i ilości wojsk biorących udział toczą się różne dyskusje historyków, natomiast
 > nie widzę potrzeby wiernego odtwarzania historii i stawiałbym raczej na luźne nawiązania i "budowanie hype'u
 > husarii" :)
-> 
+>
 > Rozpisałem sobie różne plany i możliwości, m.in.:
 > 1. Nawiązanie kontaktu z historykami, celem napisania wstępu i celem dodania kilku merytorycznych, historycznych
      stron (opis broni, techniki walki, inne bitwy itp.)
@@ -62,6 +61,7 @@ nienaciągany i bynajmniej niejedyny sukces w naszej pięknej historii.
 Jestem przekonany, że lektura albumu i materiałów dodatkowych da każdemu co najmniej tyle radości, ile nam dało ich
 tworzenie.
 
-Mateusz, założyciel fundacji
+/Pierwotnie opublikowano
+na [stronie na Facebooku fundacji](https://www.facebook.com/polskietermopile/posts/pfbid0sqBDRswBuXdF2nhxf8xcfQLkiN4aYk139Maz4C1itdVQy4cyhDvJnopz6HyFnqkql)/
 
 ![Okładka posta](/assets/komiks-pomysł.png)
