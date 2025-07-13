@@ -28,6 +28,7 @@ author:
 remote_theme: jekyll/minima
 minima:
   skin: dark
+  date_format: "%Y-%m-%d"
   social_links:
     - title: Polskie Termopile na Facebooku
       icon: facebook

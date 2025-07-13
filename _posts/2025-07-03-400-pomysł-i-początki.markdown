@@ -5,6 +5,8 @@ date: 2025-07-03 13:00:00 +0200
 category: komiks
 ---
 
+Skąd pomysł na "400"? Poniżej kilka słów od założyciela fundacji:
+
 Pierwsze notatki związane z komiksem "400" powstały na początku 2019 roku, kiedy - pół żartem, pół serio - pomyślałem o
 stworzeniu filmu zainspirowanego kultowymi "300". Już wtedy słyszałem o bitwie pod Hodowem i o określeniu "Polskie
 Termopile", i już wtedy podążałem za metodą "Getting Things Done", gdzie jedną z kluczowych technik jest tworzenie
