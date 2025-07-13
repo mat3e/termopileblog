@@ -64,4 +64,4 @@ tworzenie.
 
 Mateusz, założyciel fundacji
 
-![Okładka posta](/termopileblog/assets/komiks-pomysł.png)
+![Okładka posta](/assets/komiks-pomysł.png)
