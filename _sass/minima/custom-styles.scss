@@ -14,3 +14,15 @@
 .prev-next .next {
   text-align: right;
 }
+
+.page-content {
+  background-image: radial-gradient(circle, rgba(0, 0, 0, .9) 0%, rgba(0, 0, 0, .85) 100%), url("https://polskietermopile.pl/bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 100%;
+}
+
+.site-header, .site-footer {
+  background-color: rgba(0, 0, 0, 1);
+}
