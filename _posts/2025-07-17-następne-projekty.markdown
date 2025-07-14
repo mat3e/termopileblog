@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Plany na kolejne projekty"
-date: 2025-07-14 13:00:00 +0200
+date: 2025-07-17 13:00:00 +0200
 category: fundacja
 ---
 

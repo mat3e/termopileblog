@@ -24,10 +24,10 @@ W przypadku niezarobkowej działalności nie da się w pełni odtworzyć tego pr
 świadomości narodowej i zwiększanie obecności wartościowych treści w popkulturze ciężko też zdefiniować grupy odbiorców.
 Wiemy jednak, że chcemy popularyzować polską historię i że zaczynamy od komiksu.
 
-Inspirując się powyższymi punktami i dobrymi praktykami, postawiliśmy na swoistą "stronę sprzedażową" - zbiórkę na
-portalu Zrzutka.pl. Zbiórka pomaga oszacować zapotrzebowanie i przetestować różne nagrody za wsparcie, w tym sam komiks
-w różnych wariantach. Użytkownicy mogą też zwiększać proponowane kwoty darowizn, co pozwala na dodatkowe refleksje,
-jeśli chodzi o preferowane ceny itp.
+Inspirując się powyższymi punktami i dobrymi praktykami, postawiliśmy jednak na swoistą "stronę sprzedażową" - zbiórkę
+na portalu Zrzutka.pl. Zbiórka pomaga oszacować zapotrzebowanie i przetestować różne nagrody za wsparcie, w tym sam
+komiks w różnych wariantach. Użytkownicy mogą też zwiększać proponowane kwoty darowizn, co pozwala na dodatkowe
+refleksje, jeśli chodzi o preferowane ceny itp.
 
 Na portalu Zrzutka.pl kilka tysięcy osób wpłaca na różne zbiórki każdego dnia, co stanowi szerokie grono użytkowników.
 Pomaga to sprawdzić popularność, wychodząc poza bańki informacyjne. Zwłaszcza poza bańkę komiksową, bo portal nie ma
@@ -57,7 +57,7 @@ jednak tematem, który niejeden profil jest w stanie podać dalej.
 
 Zrzutka.pl jest więc naszą grą o możliwość wyskalowania się (trochę na zasadzie przedsprzedaży), połączoną z badaniem
 oraz rozbudzaniem zainteresowania komiksem "400". Czy będziemy tak samo działać z przyszłymi projektami? Niekoniecznie.
-Jednak takie działanie z pierwszym na pewno dużo pomaga i zbuduje doświadczenie na przyszłe przedsięwzięcia.
+Jednak takie działanie z pierwszym na pewno dużo pomaga i buduje doświadczenie na przyszłe przedsięwzięcia.
 
 /Pierwotnie opublikowano
 na [stronie na Facebooku fundacji](https://www.facebook.com/polskietermopile/posts/pfbid02HaRdyiu1aKXFazfzNjLV33A8xFEHnWXGJqksXHav6gi59T8e2e8hfEDBnT7EK5u6l)/

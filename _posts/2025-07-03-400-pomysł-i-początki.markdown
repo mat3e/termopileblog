@@ -32,7 +32,7 @@ odzwierciedla cel oraz plany dotyczące "400":
 
 > Dzień dobry,
 >
-> Od jakiegoś czasu noszę się z zamiarem stworzenia patriotycznego komiksu.
+> od jakiegoś czasu noszę się z zamiarem stworzenia patriotycznego komiksu.
 >
 > Termopile doczekały się swojej adaptacji w formie "300", a waleczna husaria ze swoimi licznymi dokonaniami wciąż jest
 > za mało obecna w popkulturze. Chciałbym spróbować z komiksem "400", nawiązującym do bitwy pod
