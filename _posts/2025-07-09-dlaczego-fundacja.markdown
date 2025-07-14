@@ -3,6 +3,7 @@ layout: post
 title: "Dlaczego fundacja?"
 date: 2025-07-09 13:00:00 +0200
 category: fundacja
+image: ["/assets/fundacja-pomysł.png"]
 ---
 
 Dlaczego postawiliśmy na fundację?
