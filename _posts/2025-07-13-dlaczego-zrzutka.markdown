@@ -3,7 +3,7 @@ layout: post
 title: "Dlaczego zbiórka na Zrzutce?"
 date: 2025-07-13 09:00:00 +0200
 category: komiks
-image: ["/assets/zbiórka-pomysł.png"]
+image: "/assets/zbiórka-pomysł.png"
 ---
 
 Jak wprowadzać towar lub usługę na rynek?

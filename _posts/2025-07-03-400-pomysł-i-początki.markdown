@@ -3,7 +3,7 @@ layout: post
 title: "Komiks \"400\" - pomysł i początki"
 date: 2025-07-03 13:00:00 +0200
 category: komiks
-image: ["/assets/komiks-pomysł.png"]
+image: "/assets/komiks-pomysł.png"
 ---
 
 Skąd pomysł na "400"? Poniżej kilka słów od założyciela fundacji:
