@@ -63,4 +63,4 @@ Jednak takie działanie z pierwszym na pewno dużo pomaga i buduje doświadczeni
 /Pierwotnie opublikowano
 na [stronie na Facebooku fundacji](https://www.facebook.com/polskietermopile/posts/pfbid02HaRdyiu1aKXFazfzNjLV33A8xFEHnWXGJqksXHav6gi59T8e2e8hfEDBnT7EK5u6l)/
 
-![Okładka posta](/assets/zbiórka-pomysł.png)
+![Okładka posta]({{page.image}})

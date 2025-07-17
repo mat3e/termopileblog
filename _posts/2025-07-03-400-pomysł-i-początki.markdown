@@ -67,4 +67,4 @@ tworzenie.
 /Pierwotnie opublikowano
 na [stronie na Facebooku fundacji](https://www.facebook.com/polskietermopile/posts/pfbid0sqBDRswBuXdF2nhxf8xcfQLkiN4aYk139Maz4C1itdVQy4cyhDvJnopz6HyFnqkql)/
 
-![Okładka posta](/assets/komiks-pomysł.png)
+![Okładka posta]({{page.image}})

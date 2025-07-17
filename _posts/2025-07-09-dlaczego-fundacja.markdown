@@ -85,4 +85,4 @@ za granicą" zostanie wtedy dołożony.
 /Pierwotnie opublikowano
 na [stronie na Facebooku fundacji](https://www.facebook.com/polskietermopile/posts/pfbid0txbNJ3P6AHdzgKof5YRVLe4oJJtiqoXx7vNrQHf9VAxh8wPo559avs14PQAEs5h7l)/
 
-![Okładka posta](/assets/fundacja-pomysł.png)
+![Okładka posta]({{page.image}})
