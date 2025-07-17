@@ -8,8 +8,8 @@ image: "/assets/plany-pomysł.png"
 
 ## Komiks za darowiznę
 
-[W poprzednim wpisie]({% post_url 2025-07-13-dlaczego-zrzutka %}) zaznaczaliśmy, że dzięki zbiórce dosyć szybko
-wystartujemy z akcją "Komiks za darowiznę".
+[W poprzednim wpisie]({% post_url 2025-07-13-dlaczego-zrzutka %}) zaznaczaliśmy, że dzięki zbiórce wystartujemy z
+akcją "Komiks za darowiznę".
 
 O co chodzi? Wiedząc, ile mamy komiksów (np. jeśli wydamy 800 standardowych okładek, a 300 pójdzie w&nbsp;samej zbiórce,
 to zostanie 500), rozpoczniemy akcję, gdzie w zamian za darowiznę na cele statutowe fundacji wynoszącą min. 10 zł
