@@ -13,5 +13,5 @@ if (sessionStorage.getItem('zrzutka already skipped') !== 'true') {
         document.body.appendChild(z);
         z.showModal();
         sessionStorage.setItem('zrzutka already skipped', 'true');
-    }, 5_000);
+    }, 15_000);
 }
