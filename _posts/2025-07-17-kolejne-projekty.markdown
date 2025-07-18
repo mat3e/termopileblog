@@ -8,8 +8,8 @@ image: "/assets/plany-pomysł.png"
 
 ## Komiks za darowiznę
 
-[W poprzednim wpisie]({% post_url 2025-07-13-dlaczego-zrzutka %}) zaznaczaliśmy, że dzięki zbiórce wystartujemy z
-akcją "Komiks za darowiznę".
+[W poprzednim wpisie]({% post_url 2025-07-13-dlaczego-zrzutka %}) zaznaczaliśmy, że dzięki zbiórce dość szybko
+wystartujemy z akcją "Komiks za darowiznę".
 
 O co chodzi? Wiedząc, ile mamy komiksów (np. jeśli wydamy 800 standardowych okładek, a 300 pójdzie w&nbsp;samej zbiórce,
 to zostanie 500), rozpoczniemy akcję, gdzie w zamian za darowiznę na cele statutowe fundacji wynoszącą min. 10 zł
@@ -18,7 +18,7 @@ będziemy wysyłać album.
 Tylko 10 zł? Prawdopodobnie nie pokryje to nawet pełnych kosztów wysyłki, ale liczymy na znacznie wyższą średnią wpłatę.
 Jeśli tak się nie stanie, dopłacimy do wysyłek, pozbędziemy się egzemplarzy i zwyczajnie zakończymy działalność.
 
-### Jaki mamy plan, żeby uzyskać średnią darowiznę powyżej 10 zł (najlepiej 50zł+)?
+#### Jaki mamy plan, żeby uzyskać średnią darowiznę powyżej 10 zł (najlepiej 50zł+)?
 
 Ważną częścią projektu będzie stworzenie formularza darowizn, wyraźnie opisującego jak wysokość darowizny przekłada się
 na efekty po naszej stronie.
@@ -58,7 +58,7 @@ działania.
 
 ## Kolejne tytuły
 
-Naturalnym następnym krokiem jest tworzenie kolejnych komiksów, jak wspomnieliśmy przy okazji darowizn.
+Naturalnym następnym krokiem są kolejne komiksy (jak wspomnieliśmy przy okazji darowizn).
 
 Oczywistością wydaje się tu pozycja o odsieczy wiedeńskiej. Wiktoria cieszy się już jednak sporą popularnością, więc
 jeszcze bardziej zależy nam na przedstawieniu bitwy pod Parkanami. Odsiecz i Parkany miały miejsce na przestrzeni
@@ -84,11 +84,11 @@ kompromis. Oczywiście, jeśli finanse pozwolą, nic nie stoi na przeszkodzie, a
 plan wydawniczy na najbliższe lata to "400", komiks mający miejsce po drugiej bitwie pod Chocimiem (1673), "Odsiecz" i
 "Parkany".
 
-## Film?
+## A może?...
 
-Wreszcie pomysł, jakim zakończymy ten wpis. Niejednej głowie widzącej zapowiedź "400" mogła przypomnieć się historia
-Spartan. Prawdopodobnie w wersji filmowej. "300" zaczynało jednak jako komiks, a następnie przerodziło się w
-film, który miał nawet swoją kontynuację. Przeniesienie naszych historii na ekrany byłoby czymś wielkim, ale - mierząc
-siły na zamiary - trzeba uczciwie przyznać, że to zdecydowanie przerasta nasze obecne możliwości.
+Niejednej głowie widzącej zapowiedź "400" mogła przypomnieć się historia Spartan. Prawdopodobnie w wersji filmowej. "
+300" zaczynało jednak jako komiks, a następnie przerodziło się w film, który miał nawet swoją kontynuację. Przeniesienie
+naszych historii na ekrany byłoby czymś wielkim, ale - mierząc siły na zamiary - trzeba uczciwie przyznać, że to
+zdecydowanie przerasta nasze obecne możliwości.
 
 ![Okładka posta]({{page.image}})
