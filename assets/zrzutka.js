@@ -5,6 +5,7 @@ if (sessionStorage.getItem('zrzutka already skipped') !== 'true') {
         z.id = 'zrzutka-dialog';
         z.style.width = '100%';
         z.style.maxWidth = '400px';
+        z.style.boxSizing = 'border-box';
         z.innerHTML = `<form method="dialog">
                 <button class="e-delete"><i aria-hidden="true">&times;</i></button>
             </form>
