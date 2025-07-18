@@ -28,6 +28,8 @@ Dosyć szybko pojawił się więc pomysł powołania dedykowanego podmiotu, zarz
 Zależało nam na budowaniu widoczności nie tylko "400", najlepiej więc od razu promować organizację, a nie pojedynczy
 tytuł. Po dokształceniu się postawiliśmy na fundację z działalnością gospodarczą.
 
+{% include insta.html id="DLVDE7oImiN" %}
+
 Żeby zarejestrować fundację, należy spełnić kilka wymagań. Konieczne są m.in. statut, wniosek o rejestrację w KRS oraz
 konto firmowe. Te z kolei wymagają nazwy, a we wspomnianym wcześniej świecie oprogramowania istnieje powiedzenie, dające
 się przetłumaczyć na zasadzie "w informatyce mamy tylko 2 trudne zagadnienia: zarządzanie pamięcią podręczną i nazywanie

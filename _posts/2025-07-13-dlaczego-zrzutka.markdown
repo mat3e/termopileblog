@@ -30,6 +30,8 @@ na portalu Zrzutka.pl. Zbiórka pomaga oszacować zapotrzebowanie i przetestowa�
 komiks w różnych wariantach. Użytkownicy mogą też zwiększać proponowane kwoty darowizn, co pozwala na dodatkowe
 refleksje, jeśli chodzi o preferowane ceny itp.
 
+{% include insta.html id="DMAH6blsvrA" %}
+
 Na portalu Zrzutka.pl kilka tysięcy osób wpłaca na różne zbiórki każdego dnia, co stanowi szerokie grono użytkowników.
 Pomaga to sprawdzić popularność, wychodząc poza bańki informacyjne. Zwłaszcza poza bańkę komiksową, bo portal nie ma
 dedykowanego działu dla tego typu zbiórek…

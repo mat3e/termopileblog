@@ -56,6 +56,8 @@ osobami. Zwycięzcom (z największą ilością głosów) wyślemy komiks oraz za
 podpisany dyplom z podziękowaniem wyjaśniającym, że to skutek głosów naszej społeczności doceniającej konkretne prace i
 działania.
 
+{% include insta.html id="DMP5UasupZS" %}
+
 ## Kolejne tytuły
 
 Naturalnym następnym krokiem są kolejne komiksy (jak wspomnieliśmy przy okazji darowizn).

@@ -28,6 +28,8 @@ stworzenie komiksu może być osiągalne - 2020 był rokiem, w którym zmieniłe
 Szybko odszukałem też notki na temat serii komiksów o polskim superbohaterze - "Biały Orzeł" - i znalazłem sposób na
 kontakt z jego rysownikiem.
 
+{% include insta.html id="DLCpZ7etvWZ" %}
+
 Pierwszego poważnego maila związanego z komiksem wysłałem 13 września 2020 roku. Jego początek wciąż dobrze
 odzwierciedla cel oraz plany dotyczące "400":
 
