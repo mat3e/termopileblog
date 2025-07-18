@@ -1,0 +1,66 @@
+dialog {
+    border: none;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+dialog form {
+    float: right;
+}
+
+dialog form .e-delete {
+    background-color: #fff;
+}
+
+.e-delete {
+    position: relative;
+    font-weight: 700;
+    font-family: sans-serif;
+    background: 0 0;
+    color: rgba(0, 0, 0, .4);
+    text-decoration: none !important;
+    border: none;
+    border-radius: 4px;
+    font-size: 1.5rem;
+    line-height: normal;
+    padding: 2px 8px 0 6px;
+    text-align: center;
+    cursor: pointer
+}
+
+.e-delete:focus {
+    outline: rgba(77, 77, 77, .2) solid 2.2px
+}
+
+.eUp {
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both
+}
+
+@-webkit-keyframes eUp {
+    from {
+        opacity: 0;
+        transform: translate3d(0, 100%, 0)
+    }
+    to {
+        opacity: 1;
+        transform: translate3d(0, 0, 0)
+    }
+}
+
+@keyframes eUp {
+    from {
+        opacity: 0;
+        transform: translate3d(0, 100%, 0)
+    }
+    to {
+        opacity: 1;
+        transform: translate3d(0, 0, 0)
+    }
+}
+
+.eUp {
+    -webkit-animation-name: eUp;
+    animation-name: eUp
+}
