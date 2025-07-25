@@ -50,6 +50,8 @@ Skontaktowaliśmy się też z Piotrem Arendzikowskim celem narysowania grafiki n
 Do stworzenia projektu graficznego, składu i łamania, przygotowania do druku i opracowania logotypu oraz okładek
 skorzystaliśmy z usług Bartka Sutora.
 
+{% include insta.html id="DMSeC_MxVEB" %}
+
 Całościowo ww. prace kosztowały nas prawie **63 tys. zł** (brutto, większość twórców wybrała umowę o dzieło jako formę
 rozliczenia).
 
