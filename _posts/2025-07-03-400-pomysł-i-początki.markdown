@@ -18,11 +18,11 @@ Kopiuj-wklej. Obrazek o bitwie pod Hodowem na stronie demotywatory.pl? Kopiuj-wk
 Kopiuj-wklej. I tak dalej, i tak dalej…
 
 W 2020 roku doszło jednak do kilku przełomów. Trafiłem do kościoła ojców kapucynów w Warszawie, który został zbudowany
-jako wotum wdzięczności po odsieczy wiedeńskiej 1683 r. Działo się to 12 września, czyli w święto Imienia Maryi,
+jako wotum wdzięczności po odsieczy wiedeńskiej 1683 r. Działo się to 12 września, czyli w&nbsp;święto Imienia Maryi,
 ustanowione i obchodzone po tej wielkiej bitwie. Trafiłem też na artykuł dr. Sikory, historyka, którego już wcześniej
 obserwowałem ze względu na liczne i szczegółowe opisy związane z husarią. W artykule doktor opisywał, że w 2021 roku
 będzie czterechsetna (400!) rocznica pierwszej bitwy pod Chocimiem i że powinno to zostać upamiętnione. Wreszcie
-połączyłem też kropki i przypomniałem sobie, że "300" zaczynało jako komiks i oglądałem liczne porównania pomiędzy
+połączyłem też kropki i przypomniałem sobie, że&nbsp;"300" zaczynało jako komiks i oglądałem liczne porównania pomiędzy
 kadrami albumu a scenami z filmu. Uświadomiłem sobie, że o ile film jest zdecydowanie poza zasięgiem finansowym, o tyle
 stworzenie komiksu może być osiągalne - 2020 był rokiem, w którym zmieniłem pracę i opublikowałem więcej kursów online.
 Szybko odszukałem też notki na temat serii komiksów o polskim superbohaterze - "Biały Orzeł" - i znalazłem sposób na
@@ -54,9 +54,9 @@ odzwierciedla cel oraz plany dotyczące "400":
 
 Od początku zakładaliśmy, że komiks może pewne kwestie trochę wyolbrzymić, ale dodatkowe materiały wszystko wyjaśnią,
 przytoczą znane fakty i naprostują potencjalne naciągnięcia. W odpowiedzi otrzymałem jednak kontakt do scenarzysty,
-który z luźnych, często niepowiązanych miejscem i mocno skaczących w czasie wydarzeń, które chciałem zawrzeć w komiksie,
-stworzył spójną, o wiele lepszą historię, kładąc dodatkowy nacisk na pokazanie różnych ówczesnych warstw społecznych,
-ich problemów i dużo lepiej oddał realia.
+który z luźnych, często niepowiązanych miejscem i mocno skaczących w&nbsp;czasie wydarzeń, które chciałem zawrzeć w
+komiksie, stworzył spójną, o wiele lepszą historię, kładąc dodatkowy nacisk na pokazanie różnych ówczesnych warstw
+społecznych, ich problemów i dużo lepiej oddał realia.
 
 Komiks nie jest więc kalką "300", gdzie Spartanie to niemal półbogowie, a całość kończy się w momencie, który wygląda na
 zwycięstwo. Wygrali, mimo że przegrali. Nasze "400" bez malowania trawy na zielono i bez zbędnego lania wody

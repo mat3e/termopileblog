@@ -43,8 +43,8 @@ rocznicę odsieczy wiedeńskiej).
 
 Prace zostały sfinansowane i - w odróżnieniu do niejednej zrzutki - szukamy dodatkowych środków tylko na sam wydruk. Bez
 zbiórki bylibyśmy w stanie wydać znacznie mniej egzemplarzy, a premiera musiałaby mieć miejsce jeszcze kilka miesięcy
-później. Oczywiście sami też wpłacamy na swoją zbiórkę, ale każda darowizna z zewnątrz daje szanse na większy nakład i
-niższy koszt wydruku pojedynczego egzemplarza. Większa skala pozwoli na szerszy wybór drukarni i uwzględnienie
+później. Oczywiście sami też wpłacamy na swoją zbiórkę, ale każda darowizna z&nbsp;zewnątrz daje szanse na większy
+nakład i niższy koszt wydruku pojedynczego egzemplarza. Większa skala pozwoli na szerszy wybór drukarni i uwzględnienie
 późniejszych dodruków.
 
 Wydrukowane komiksy, które nie trafią jako nagrody do finansujących Zrzutkę, pomogą zrealizować kolejny śmiały
