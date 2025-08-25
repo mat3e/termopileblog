@@ -88,8 +88,8 @@ plan wydawniczy na najbliższe lata to "400", komiks mający miejsce po drugiej 
 
 ## A może?...
 
-Niejednej głowie widzącej zapowiedź "400" mogła przypomnieć się historia Spartan. Prawdopodobnie w wersji filmowej. "
-300" zaczynało jednak jako komiks, a następnie przerodziło się w film, który miał nawet swoją kontynuację. Przeniesienie
+Niejednej głowie widzącej zapowiedź "400" mogła przypomnieć się historia Spartan. Prawdopodobnie w wersji filmowej. 
+"300" zaczynało jednak jako komiks, a następnie przerodziło się w film, który miał nawet swoją kontynuację. Przeniesienie
 naszych historii na ekrany byłoby czymś wielkim, ale - mierząc siły na zamiary - trzeba uczciwie przyznać, że to
 zdecydowanie przerasta nasze obecne możliwości.
 
