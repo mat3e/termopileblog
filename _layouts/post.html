@@ -39,14 +39,12 @@ layout: base
     {% include prev_next.html prev_url=page.previous.url prev_text=page.previous.title next_url=page.next.url
     next_text=page.next.title %}
 
-    {% if jekyll.environment == 'production' -%}
     {% if page.comments == false -%}
     <div class="comments-disabled-message">
         Comments have been disabled for this post.
     </div>
     {% else -%}
     {%- include comments.html -%}
-    {% endif -%}
     {% endif -%}
 
     <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
