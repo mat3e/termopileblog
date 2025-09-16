@@ -115,7 +115,7 @@ Niestety, nie udało się wystawić niczego związanego z projektami naszego sce
 ## Przemyślenia końcowe
 
 Za samym doprowadzeniem do zbiórki stał ogrom pracy. Samo jej prowadzenie i pilnowanie przebiegu to jednak osobny
-wysiłek, opisany szczegółowo [w kolejnym artykule]({% post_url 2025-09-17-podsumowanie-zrzutki %}) 😇
+wysiłek, do opisania w kolejnym artykule 😇
 
 
 
