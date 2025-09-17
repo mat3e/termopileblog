@@ -42,7 +42,7 @@ komiksie pojawiały się gdzieś indziej.
 
 Istnieje też sensowna reguła "1-1-1-250" — nim osiągnie się 250 tys. rocznego przychodu, powinno się skupić na 1
 produkcie, 1 grupie odbiorczej i 1 kanale komunikacji. O grupie [już wspominaliśmy poprzednim artykule]({% post_url
-2025-07-13-dlaczego-zrzutka %}).Nie wiedzieliśmy jednak, na który kanał komunikacji warto postawić. Mieliśmy
+2025-07-13-dlaczego-zrzutka %}). Nie wiedzieliśmy jednak, na który kanał komunikacji warto postawić. Mieliśmy
 doświadczenie ze stronami na Facebooku, rodzina korzysta aktywnie zarówno z Facebooka, jak i Instagrama, więc te dwa
 miejsca były rozpatrywane w pierwszej kolejności. Zarezerwowaliśmy nazwy także w pozostałych portalach, planując m.in.
 publikacje filmów. Postawiliśmy jednak na ich krótką formę, bo jest ona wspierana przez YouTube'a, Facebooka, Instagrama
