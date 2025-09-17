@@ -45,11 +45,10 @@ produkcie, 1 grupie odbiorczej i 1 kanale komunikacji. O grupie [już wspominali
 2025-07-13-dlaczego-zrzutka %}).Nie wiedzieliśmy jednak, na który kanał komunikacji warto postawić. Mieliśmy
 doświadczenie ze stronami na Facebooku, rodzina korzysta aktywnie zarówno z Facebooka, jak i Instagrama, więc te dwa
 miejsca były rozpatrywane w pierwszej kolejności. Zarezerwowaliśmy nazwy także w pozostałych portalach, planując m.in.
-publikacje filmów. Postawiliśmy jednak na ich krótką formę, bo jest. Postawiliśmy jednak na ich krótką formę, bo jest
-ona wspierana przez YouTube'a, Facebooka, Instagrama i TikToka. Nie mieliśmy pewności, gdzie coś "odpali", więc
-zostawiliśmy sobie furtkę na różne opcje, by z czasem skupić się na najpopularniejszej. Ostatecznie wygrał Facebook, ale
-dzięki zarządzaniu stroną przy pomocy Meta Business Suite łatwo publikować również na Instagramie. Stąd nasze działania
-głównie w tych dwóch przestrzeniach.
+publikacje filmów. Postawiliśmy jednak na ich krótką formę, bo jest ona wspierana przez YouTube'a, Facebooka, Instagrama
+i TikToka. Nie mieliśmy pewności, gdzie coś "odpali", więc zostawiliśmy sobie furtkę na różne opcje, by z czasem skupić
+się na najpopularniejszej. Ostatecznie wygrał Facebook, ale dzięki zarządzaniu stroną przy pomocy Meta Business Suite
+łatwo publikować również na Instagramie. Stąd nasze działania głównie w tych dwóch przestrzeniach.
 
 Zakładaliśmy 3 miesiące regularnego publikowania wpisów, zanim wystartujemy ze zbiórką. Szybko połączyliśmy to z
 rocznicami bitwy pod Hodowem i odsieczy wiedeńskiej. Pomyśleliśmy, że o zbiórce z takimi datami będzie łatwiej
@@ -100,7 +99,7 @@ prezentach, ale musieliśmy to zbalansować z możliwością zebrania wymaganych
 kwot. [Jak zaznaczyliśmy we wcześniejszym wpisie]({% post_url 2025-07-18-koszty-komiksu %}), postawiliśmy na około 65% —
 z każdych 100 zł na koncie zbiórki co najmniej 65 ma iść na faktyczny wydruk, a pozostałe na zakup dodatkowych
 produktów, wysyłkę itp. Założyliśmy też (słusznie), że komiks ze standardową okładką będzie najbardziej
-pożądaną przez ludzi opcją i dostosowaliśmy jego cenę oraz ilość tak, żeby prosta matematyka (400 komiksów x 49 zł za
+pożądaną przez ludzi opcją i&nbsp;dostosowaliśmy jego cenę oraz ilość tak, żeby prosta matematyka (400 komiksów x 49 zł za
 komiks = prawie 20 tys. zł) dowodziła realności celów zbiórki.
 
 Nagrody były dla nas priorytetem, ale sama Zrzutka traktuje je raczej bonusowo — nie wspiera łączenia w pakiety, nie
