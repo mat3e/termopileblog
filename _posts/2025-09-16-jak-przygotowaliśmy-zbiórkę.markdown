@@ -99,8 +99,8 @@ prezentach, ale musieliśmy to zbalansować z możliwością zebrania wymaganych
 kwot. [Jak zaznaczyliśmy we wcześniejszym wpisie]({% post_url 2025-07-18-koszty-komiksu %}), postawiliśmy na około 65% —
 z każdych 100 zł na koncie zbiórki co najmniej 65 ma iść na faktyczny wydruk, a pozostałe na zakup dodatkowych
 produktów, wysyłkę itp. Założyliśmy też (słusznie), że komiks ze standardową okładką będzie najbardziej
-pożądaną przez ludzi opcją i&nbsp;dostosowaliśmy jego cenę oraz ilość tak, żeby prosta matematyka (400 komiksów x 49 zł za
-komiks = prawie 20 tys. zł) dowodziła realności celów zbiórki.
+pożądaną przez ludzi opcją i&nbsp;dostosowaliśmy jego cenę oraz ilość tak, żeby prosta matematyka (400 komiksów x 49 zł
+za komiks = prawie 20 tys. zł) dowodziła realności celów zbiórki.
 
 Nagrody były dla nas priorytetem, ale sama Zrzutka traktuje je raczej bonusowo — nie wspiera łączenia w pakiety, nie
 daje propozycji "dokupowania" kolejnych rzeczy, a sam interfejs użytkownika nie stawia nagród na wystarczająco
@@ -114,7 +114,7 @@ Niestety, nie udało się wystawić niczego związanego z projektami naszego sce
 ## Przemyślenia końcowe
 
 Za samym doprowadzeniem do zbiórki stał ogrom pracy. Samo jej prowadzenie i pilnowanie przebiegu to jednak osobny
-wysiłek, do opisania w kolejnym artykule 😇
+wysiłek, opisany szczegółowo [w kolejnym artykule]({% post_url 2025-09-20-podsumowanie-zrzutki %}) 😇
 
 
 
