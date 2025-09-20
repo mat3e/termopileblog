@@ -13,6 +13,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 domain: "blog.polskietermopile.pl"
 url: "https://blog.polskietermopile.pl" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "https://polskietermopile.pl/bg.jpg"
+lang: "pl"
 
 social:
   name: Polskie Termopile
