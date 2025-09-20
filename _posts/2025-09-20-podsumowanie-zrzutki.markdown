@@ -100,8 +100,8 @@ wtedy (czasami zamiast polubień).
     * Trafiliśmy też na stronę główną portalu.
     * Ciekawostka: przez pierwszy miesiąc opłacaliśmy promowanie i wyróżnienie zbiórki, ale nie ponowiliśmy opłat
       (przedłużyliśmy tylko okres, w którym mogliśmy korzystać z krótkiego adresu `zrzutka.pl/400`). Decyzja
-      administratorów portalu nastąpiła niezależnie od opłat za wyróżnienie zbiórki (sporo później), sporo później i
-      miała znaczne przełożenie na zainteresowanie.
+      administratorów portalu nastąpiła niezależnie od opłat za wyróżnienie zbiórki (sporo później) i miała znaczne
+      przełożenie na zainteresowanie.
     * Warto odnotować, że oprócz opłat mieliśmy kilka interakcji ze Zrzutką np. pod postem Miłosza na X. Być może
       pomogło to w podjęciu decyzji o wyróżnieniu.
     * Ciekawostka 2: dopiero po 2-3 dniach post na Facebooku stał się bardziej popularny i zaczął zyskiwać 100+ polubień
