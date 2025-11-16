@@ -22,7 +22,7 @@ dialog form .e-delete {
     border-radius: 4px;
     font-size: 1.5rem;
     line-height: normal;
-    padding: 2px 8px 0 6px;
+    padding: 2px 8px;
     text-align: center;
     cursor: pointer
 }
@@ -63,4 +63,129 @@ dialog form .e-delete {
 .eUp {
     -webkit-animation-name: eUp;
     animation-name: eUp
+}
+
+.e-card {
+    overflow: hidden;
+    flex-direction: column;
+    font-weight: 400;
+    border-radius: .35rem;
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15);
+    background: #fff;
+    max-width: 18rem;
+    transition: transform 0.25s;
+}
+
+.e-card ol, .e-card ul {
+    margin: 0;
+    padding: .25rem 0 .25rem 1.25rem;
+}
+
+.e-card ol li {
+    list-style: upper-roman;
+}
+
+.e-card img {
+    border-bottom: solid 1px black;
+}
+
+.white[class*=e-], .white[class*=e-] a:not(.e-btn), .white[class*=e-] p {
+    color: rgba(0, 0, 0, .6)
+}
+
+.white[class*=e-] {
+    background: #fff
+}
+
+.card-body {
+    flex: 1 1 auto;
+    padding: 1.25rem
+}
+
+.e-btn {
+    white-space: nowrap;
+    transition: box-shadow .18s ease-out, background .18s ease-out, color .18s ease-out;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    color: rgba(0, 0, 0, .6);
+    border: 1px solid transparent;
+    border-radius: .25rem;
+    font-size: .9rem;
+    padding: .575rem 1.25rem;
+    display: inline-block;
+    position: relative;
+    font-weight: 600;
+    letter-spacing: .4px;
+    margin: .3rem;
+    text-decoration: none;
+    line-height: normal;
+    background-color: #f7f8f9;
+    box-shadow: 0 .125rem .25rem rgba(0, 0, 0, .075);
+    cursor: pointer;
+    text-align: center
+}
+
+.e-btn.transparent {
+    background: rgba(255, 255, 255, .1) !important;
+    color: #fff !important
+}
+
+@media only screen and (min-width: 1024px) {
+    .e-btn.transparent {
+        background: rgba(255, 255, 255, .1) !important
+    }
+}
+
+.e-btn:not([disabled]) {
+    position: relative;
+    overflow: hidden;
+    transform: translate3d(0, 0, 0)
+}
+
+.e-btn:not([disabled]):after {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    pointer-events: none;
+    background-image: radial-gradient(circle, #fff 10%, transparent .01%);
+    background-repeat: no-repeat;
+    background-position: 50%;
+    transform: scale(10, 10);
+    opacity: 0;
+}
+
+.e-btn:not([disabled]):active:after {
+    transform: scale(0, 0);
+    opacity: .3;
+    transition: 0s
+}
+
+.e-btn.outlined {
+    background: #fff;
+    color: rgba(0, 0, 0, .6);
+    border-color: #f7f8f9
+}
+
+.e-btn.outlined:focus, .e-btn.outlined:hover {
+    background: #f7f8f9
+}
+
+.e-btn:focus {
+    box-shadow: 0 0 0 2.4px #fcfdfd;
+    outline: 0 !important;
+    z-index: 100
+}
+
+.success[class*=e-], .success[class*=e-] a:not(.e-btn) {
+    color: #fff
+}
+
+.success[class*=e-] {
+    background: #4fd69c
 }
