@@ -13,4 +13,4 @@ oraz [Raszczakpl](https://www.instagram.com/raszczakpl/).
 Dziś na [kanale YT pierwszego z patronów](https://www.youtube.com/@comixxy) pojawił się wywiad z pomysłodawcą komiksu i
 założycielem fundacji 👀
 
-{% include yt-comixxy-mat.html %}
+{% include yt.html id="4A06daNdUPg" %}
