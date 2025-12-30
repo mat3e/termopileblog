@@ -6,8 +6,8 @@ category: komiks
 image: "/assets/zrzutka-end.png"
 ---
 
-[Zrzutka (zgodnie z przewidywaniami)]({% post_url 2025-07-13-dlaczego-zrzutka %}) pomogła nagłośnić "400". Podtrzymanie
-zainteresowania odbiorców kosztowało jednak sporo pracy.
+[Zrzutka (zgodnie z przewidywaniami)]({% post_url 2025-07-13-dlaczego-zrzutka %}) pomogła nagłośnić "400". Samo zdobycie
+zainteresowania odbiorców, oraz późniejsze podtrzywmywanie go kosztowały jednak sporo pracy.
 
 Kontynuując naszą otwartą komunikację, przedstawiamy, co z perspektywy Fundacji przyczyniło się do sukcesu zbiórki.
 Razem z [opisem kosztów komiksu]({% post_url 2025-07-18-koszty-komiksu %}) może to pomóc zorganizować podobne
@@ -43,7 +43,7 @@ komiksie pojawiały się gdzieś indziej.
 Istnieje też sensowna reguła "1-1-1-250" — nim osiągnie się 250 tys. rocznego przychodu, powinno się skupić na 1
 produkcie, 1 grupie odbiorczej i 1 kanale komunikacji. O grupie [już wspominaliśmy poprzednim artykule]({% post_url
 2025-07-13-dlaczego-zrzutka %}). Nie wiedzieliśmy jednak, na który kanał komunikacji warto postawić. Mieliśmy
-doświadczenie ze stronami na Facebooku, rodzina korzysta aktywnie zarówno z Facebooka, jak i Instagrama, więc te dwa
+doświadczenie ze stronami na Facebooku, a rodzina korzysta aktywnie zarówno z Facebooka, jak i Instagrama, więc te dwa
 miejsca były rozpatrywane w pierwszej kolejności. Zarezerwowaliśmy nazwy także w pozostałych portalach, planując m.in.
 publikacje filmów. Postawiliśmy jednak na ich krótką formę, bo jest ona wspierana przez YouTube'a, Facebooka, Instagrama
 i TikToka. Nie mieliśmy pewności, gdzie coś "odpali", więc zostawiliśmy sobie furtkę na różne opcje, by z czasem skupić
@@ -70,7 +70,7 @@ się. Publikowaliśmy różne treści, które można skategoryzować jako:
 - Partnerstwa i wywiady
 
 Liczyliśmy na wsparcie naszych twórców i udostępnienia Adama Kmiołka oraz dr. Sikory faktycznie sporo dały.
-W&nbsp;pierwszym miesiącu prowadzenia profili zainteresowała się nami [Komiksopedia](https://komiksopedia.pl/), więc
+W&nbsp;pierwszym miesiącu prowadzenia profili zainteresowała się nami i [Komiksopedia](https://komiksopedia.pl/), więc
 zaczęliśmy liczyć na szybki i organiczny wzrost. Cała sytuacja okazała się jednak przysłowiową jaskółką, która nie czyni
 wiosny. Przez następne miesiące liczby fanów i zewnętrznych wpisów o nas praktycznie stały w miejscu.
 
@@ -99,17 +99,17 @@ prezentach, ale musieliśmy to zbalansować z możliwością zebrania wymaganych
 kwot. [Jak zaznaczyliśmy we wcześniejszym wpisie]({% post_url 2025-07-18-koszty-komiksu %}), postawiliśmy na około 65% —
 z każdych 100 zł na koncie zbiórki co najmniej 65 ma iść na faktyczny wydruk, a pozostałe na zakup dodatkowych
 produktów, wysyłkę itp. Założyliśmy też (słusznie), że komiks ze standardową okładką będzie najbardziej
-pożądaną przez ludzi opcją i&nbsp;dostosowaliśmy jego cenę oraz ilość tak, żeby prosta matematyka (400 komiksów x 49 zł
-za komiks = prawie 20 tys. zł) dowodziła realności celów zbiórki.
+pożądaną przez ludzi opcją i&nbsp;dostosowaliśmy jego cenę oraz ilość tak, żeby prosta matematyka (400 wystawionych
+komiksów x 49 zł za komiks = prawie 20 tys. zł) dowodziła realności celów zbiórki.
 
 Nagrody były dla nas priorytetem, ale sama Zrzutka traktuje je raczej bonusowo — nie wspiera łączenia w pakiety, nie
 daje propozycji "dokupowania" kolejnych rzeczy, a sam interfejs użytkownika nie stawia nagród na wystarczająco
-widocznej pozycji. Zrzutka pozwala też na oferty-licytacje, ale od wspierających wiemy, że i ten mechanizm nie jest w
+widocznej pozycji. Zrzutka pozwala też na oferty-licytacje, ale od wspierających wiemy, że i ten mechanizm nie był w
 pełni intuicyjny.
 
 Historyk i rysownik chętnie weszli z nami w partnerstwo, którego charakter z czasem ewoluował i oferty jeszcze bardziej
 zyskały na wartości. Niektórym obniżyliśmy ceny lub zmieniliśmy skład. W trakcie zbiórki dodaliśmy też nowe przedmioty.
-Niestety, nie udało się wystawić niczego związanego z projektami naszego scenarzysty
+Niestety, nie udało się wystawić niczego związanego z projektami naszego scenarzysty.
 
 ## Przemyślenia końcowe
 
