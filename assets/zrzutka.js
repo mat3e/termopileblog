@@ -1,7 +1,7 @@
 setTimeout(function () {
     const img = new Image();
     img.src = 'https://polskietermopile.pl/projekty/400/400.png';
-}, 3_000);
+}, 10_000);
 if (sessionStorage.getItem('buy already skipped') !== 'true' && !location.pathname.includes('/projekty/400/')) {
     setTimeout(function () {
         const z = document.createElement('dialog');
