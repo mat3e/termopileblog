@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Komiks z Twoją ceną"
-date: 2025-01-20 19:00:00 +0200
-modified_date: 2025-04-11 17:00:00 +0100
+date: 2026-01-20 19:00:00 +0200
+modified_date: 2026-04-11 17:00:00 +0100
 category: komiks
 image: "/assets/comics.jpg"
 ---
