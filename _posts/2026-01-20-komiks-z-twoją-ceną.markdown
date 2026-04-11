@@ -2,7 +2,7 @@
 layout: post
 title: "Komiks z Twoją ceną"
 date: 2026-01-20 19:00:00 +0200
-modified_date: 2026-04-11 17:00:00 +0100
+modified_date: 2026-04-11 17:12:00 +0100
 category: komiks
 image: "/assets/comics.jpg"
 ---
@@ -14,10 +14,10 @@ format i postawiliśmy raczej na elastyczną cenę komiksu przy zakupach interne
 ## Podatki
 
 Jako fundacja [możemy liczyć na zwolnienie podatkowe przekazując dochód na realizację naszych celów statutowych]({%
-post_url 2025-07-09-dlaczego-fundacja %}). Oprócz podatków dochodowych istnieje jednak jeszcze VAT, gdzie sprawy mają
-się inaczej. Artykuł 113 ustawy o podatku od towarów i usług zwalnia z VAT pod warunkiem rocznej sprzedaży poniżej 240
-tys. zł (przed 2026 rokiem było to 200 tys.). Jesteśmy daleko od takiego progu, ale nie chcieliśmy tracić czasu na
-odpieranie zarzutów o unikaniu VAT.
+post_url 2025-07-09-dlaczego-fundacja %}). Oprócz podatków dochodowych istnieje jednak i VAT, gdzie sprawy mają się
+inaczej. Artykuł 113 ustawy o podatku od towarów i usług zwalnia z VAT pod warunkiem rocznej sprzedaży poniżej 240 tys.
+zł (przed 2026 rokiem było to 200 tys.). Jesteśmy daleko od takiego progu, ale nie chcieliśmy tracić czasu na odpieranie
+zarzutów o unikaniu VAT.
 
 ## Sprzedaż stacjonarna
 
@@ -56,21 +56,20 @@ możliwości rabatowych.
 
 ## Komiks z Twoją ceną
 
-Po lekcjach z giełdy zaczerpnęliśmy opinii twórców i byłych wydawców. [Zrzutkowa kwota 49 zł]({% post_url
-2025-09-20-podsumowanie-zrzutki %}) pokrywająca koszty przesyłki stała się też naszym drugim punktem
-odniesienia.
+Po lekcjach z giełdy zaczerpnęliśmy opinii twórców i byłych wydawców, a [zrzutkowa kwota 49 zł]({% post_url
+2025-09-20-podsumowanie-zrzutki %}) pokrywająca koszty przesyłki stała się naszym drugim punktem odniesienia.
 
 Ostatecznie postawiliśmy na cenę 50 zł podczas targów komiksowych, a cenę bazową egzemplarza standardowego ustaliliśmy
 na 69 zł. Zakładamy jednak, że osoby kupujące
 [na naszej stronie internetowej](https://polskietermopile.pl/projekty/400/kup/standard/) będą miały czas spokojnie
 przeanalizować ofertę i tam (tylko tam) pozwalamy na elastyczne rabaty. Komiks można zamówić już od 49 zł, ale można też
-podbić cenę do maksymalnej, a nawet przekazać dodatkową darowiznę. Koszt przesyłki to kolejne 9 zł, ale mamy promocje,
-np. darmową dostawę od 149 zł (przez co bardziej opłaca się wziąć 3 komiksy po 50 zł niż 3 komiksy po 49 😇).
+podbić cenę do maksymalnej, a przy okazji przekazać dodatkową darowiznę. Koszt przesyłki to kolejne 9 zł, ale mamy
+promocje, np. darmową dostawę od 149 zł (przez co bardziej opłaca się wziąć 3 komiksy po 50 zł niż 3 komiksy po 49 😇).
 
 Postawienie na zwykłą sprzedaż pozwoliło też poszerzyć dystrybucję. Nie działamy z hurtowniami, ale kilka sklepów
 stacjonarnych i internetowych zgłosiło się do nas przez
 [fomularz kontaktowy](https://polskietermopile.pl/#kontakt) i poprosiło o ofertę. Dzięki temu dotarliśmy do ludzi,
-którzy nigdy nie znaleźliby naszej strony. Zachęcamy sklepy do tego typu zapytań 😇
+którzy nigdy nie znaleźliby naszej strony. Zachęcamy kolejne sklepy do wysyłania zapytań 😇
 
 Przy okazji, szczegółowe wyniki sprzedaży opiszemy w innym poście, podsumowującym pierwsze pół roku z komiksem "400".
 
