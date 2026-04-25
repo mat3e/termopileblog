@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Podsumowanie pierwszych 6 miesięcy z komiksem"
-date: 2026-04-25 16:00:00 +0100
-modified_date: 2026-04-25 16:00:00 +0100
+date: 2026-04-25 15:00:00 +0100
+modified_date: 2026-04-25 15:00:00 +0100
 category: fundacja
 image: "/assets/comics.jpg"
 ---
