@@ -16,17 +16,17 @@ formalnych sprawozdań z działalności fundacji do KRS-u i ministerstwa :)
 
 ## Nakład i sama zbiórka
 
-22 października 2025 roku nasz magazyn odebrał ponad 1700 egzemplarzy ze standardową okładką, a 2 grudnia przyszło nam
-ponad 400 limitowanych (które następnie numerowaliśmy i podpisywaliśmy).
+22 października 2025 roku nasz magazyn odebrał ponad 1700 egzemplarzy ze standardową okładką, a&nbsp;2&nbsp;grudnia
+przyszło nam ponad 400 limitowanych (które następnie numerowaliśmy i podpisywaliśmy).
 
 Z drugiej strony, same zakończone oferty w [Zrzutce](https://zrzutka.pl/400) sugerują 221 wysyłek. W praktyce wyszło
-jednak więcej, bo choć nie ze wszystkimi udało się skontaktować, zaliczyliśmy kilka zwrotów, a niektórzy rezygnowali z
-nagrody, sami zaproponowaliśmy i staraliśmy się wysłać komiks wszystkim mającym wpłaty powyżej 49 zł.
+jednak więcej, bo choć nie ze wszystkimi udało się skontaktować, zaliczyliśmy kilka zwrotów, a niektórzy rezygnowali
+z&nbsp;nagrody, sami zaproponowaliśmy i staraliśmy się wysłać komiks wszystkim mającym wpłaty powyżej 49 zł.
 
 ## Rozdane egzemplarze
 
-Zrzutka to swego rodzaju "przedsprzedaż", dzięki której sfinansowaliśmy spory nakład, ale pieniądze nie wpłynęły na
-naszą bieżącą działalność. Podobnie inne komiksy rozeszły się bez bezpośredniego zasilenia naszego budżetu:
+Zrzutka to swego rodzaju "przedsprzedaż", dzięki której sfinansowaliśmy spory nakład, ale nie bieżącą działalność.
+Komiksów wysłanych bez bezpośredniego zasilenia naszego budżetu jest więcej:
 
 * Rozdaliśmy po jednym limitowanym egzemplarzu autorom, sprezentowaliśmy im też okładki standardowe.
 * Kilkadziesiąt sztuk poszło w ramach rozliczeń barterowych.
@@ -64,11 +64,11 @@ internetowy uruchomiliśmy w listopadzie, ale zanim do tego doszło, sprzedaliś
     * Sprzedaliśmy 18 komiksów od 49 do 69 zł, ze średnią ceną wynoszącą 58,28 zł + wysyłką za 9.
     * Przy wyborze maksymalnej ceny, można dodatkowo przekazać darowiznę na cele statutowe "Polskich Termopil" i z tej
       racji otrzymaliśmy dodatkowe 20 zł.
-    * W tym miesiącu pojawiło się też sporo recenzji, które
-      zebraliśmy [na naszej stronie](https://polskietermopile.pl/projekty/400/?r=1#recenzje).
+    * W tym miesiącu pojawiło się też sporo recenzji,
+      zebranych [na naszej stronie](https://polskietermopile.pl/projekty/400/?r=1#recenzje).
 2. Grudzień
-    * W sklepie 16 sztuk ze średnią ceną 59,69 i dodatkowe 41 zł darowizny.
-    * Oprócz tego znajomi kupili 5 sztuk.
+    * Przez sklep sprzedaliśmy 16 sztuk ze średnią ceną 59,69 i dodatkowe 41 zł darowizny.
+    * Oprócz tego znajomi kupili 5 sztuk za gotówkę.
     * Na 36.&nbsp;Podkarpackim Spotkaniu z Komiksem [organizatorzy](https://www.facebook.com/RzeszowskaAkademiaKomiksu)
       pomogli nam sprzedać kolejne 10 egzemplarzy (pozdrawiamy 👋🏻).
     * Wcześniej wymienione zakupy sklepów i szkoły miały miejsce w dużej mierze w grudniu (105 sztuk).
@@ -76,12 +76,12 @@ internetowy uruchomiliśmy w listopadzie, ale zanim do tego doszło, sprzedaliś
 3. Styczeń
     * Miesiąc po sezonie świątecznym, pozornie słaby sprzedażowo.
     * W naszym przypadku doszło jednak do przełomu. [Opisując Zrzutkę]({% post_url 2025-09-20-podsumowanie-zrzutki %}),
-      wspominaliśmy o postach na portalu JBZD. Początek roku to nasza kolejna próba przebicia się, tym razem
+      wspominaliśmy o postach na&nbsp;portalu JBZD. Początek roku to nasza kolejna próba przebicia się, tym razem
       zakończona... połowicznym sukcesem 🙂 "na główną" dostał się nasz 4-miesięczny wpis, linkujący do już zakończonej
       Zrzutki 🙈 szybko zadziałaliśmy, żeby przekierować ruch na stronę, gdzie obsługiwaliśmy kod `jbzd`, dający darmową
       wysyłkę.
-    * Sprzedaliśmy 85 komiksów po średniej cenie 63,78 zł, a dodatkowo otrzymaliśmy 340 zł w darowiznach. Musieliśmy
-      jednak pokryć koszty dostawy 58 zamówień.
+    * Sprzedaliśmy 85 komiksów po średniej cenie 63,78 zł, a dodatkowo otrzymaliśmy 340 zł w&nbsp;darowiznach.
+      Musieliśmy jednak pokryć koszty dostawy 58 zamówień.
     * Rozpoczęliśmy akcję "[Husaria Edukacji i Kultury](https://polskietermopile.pl/projekty/heik/)" (HEiK).
     * Wpłynęło też prawie 150 zł darowizny zbieranej przez niemal rok przy okazji zakupów online
       dzięki [FaniMani](https://fanimani.pl/zaproszenie/35859/7290ce5404b34c6c9c113a845f4b96d0).
@@ -112,7 +112,7 @@ internetowy uruchomiliśmy w listopadzie, ale zanim do tego doszło, sprzedaliś
 * Na koncie oszczędnościowym Fundacji mamy odłożone ponad 15 tys. zł na następne projekty.
 * Chcielibyśmy wystartować z kolejnym komiksem, ale opóźniamy ten moment do czasu zabezpieczenia większej kwoty,
   ponieważ wiemy, jakie są [orientacyjne koszty prac i wydania]({% post_url 2025-07-18-koszty-komiksu %}).
-* Rozeszło się już prawie 25% egzemplarzy limitowanych, 92 z 400 sztuk. Można śledzić postępy na bieżąco obserwując
+* Rozeszło się już prawie 25% egzemplarzy limitowanych, 92 z 400 sztuk. Można śledzić postępy na&nbsp;bieżąco obserwując
   licznik na naszej [stronie internetowej](https://polskietermopile.pl/projekty/400/kup/limit/) 👀
 * Dodatkowo 653 komiksy standardowe, a więc prawie 40% nakładu, już krąży po świecie.
 * Rozprowadzenie 745 egzemplarzy to dobry wynik jak na polski rynek komiksowy, ale potrzebujemy kolejnego wiatru w
