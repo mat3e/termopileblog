@@ -25,8 +25,8 @@ z&nbsp;nagrody, sami zaproponowaliśmy i staraliśmy się wysłać komiks wszyst
 
 ## Rozdane egzemplarze
 
-Zrzutka to swego rodzaju "przedsprzedaż", dzięki której sfinansowaliśmy spory nakład, ale nie bieżącą działalność.
-Komiksów wysłanych bez bezpośredniego zasilenia naszego budżetu jest więcej:
+Zrzutka to swego rodzaju "przedsprzedaż", dzięki której sfinansowaliśmy spory nakład i wysyłkę, ale... nic więcej nie
+zostało. Komiksów niedających nam bezpośrednich wpływów było więcej:
 
 * Rozdaliśmy po jednym limitowanym egzemplarzu autorom, sprezentowaliśmy im też okładki standardowe.
 * Kilkadziesiąt sztuk poszło w ramach rozliczeń barterowych.
@@ -78,8 +78,8 @@ internetowy uruchomiliśmy w listopadzie, ale zanim do tego doszło, sprzedaliś
     * W naszym przypadku doszło jednak do przełomu. [Opisując Zrzutkę]({% post_url 2025-09-20-podsumowanie-zrzutki %}),
       wspominaliśmy o postach na&nbsp;portalu JBZD. Początek roku to nasza kolejna próba przebicia się, tym razem
       zakończona... połowicznym sukcesem 🙂 "na główną" dostał się nasz 4-miesięczny wpis, linkujący do już zakończonej
-      Zrzutki 🙈 szybko zadziałaliśmy, żeby przekierować ruch na stronę, gdzie obsługiwaliśmy kod `jbzd`, dający darmową
-      wysyłkę.
+      Zrzutki 🙈 szybko zadziałaliśmy jednak komentarzami pod postem i wpisem na Zrzutce, żeby przekierować ludzi na
+      stronę, gdzie obsługiwaliśmy kod `jbzd`, dający darmową wysyłkę.
     * Sprzedaliśmy 85 komiksów po średniej cenie 63,78 zł, a dodatkowo otrzymaliśmy 340 zł w&nbsp;darowiznach.
       Musieliśmy jednak pokryć koszty dostawy 58 zamówień.
     * Rozpoczęliśmy akcję "[Husaria Edukacji i Kultury](https://polskietermopile.pl/projekty/heik/)" (HEiK).
@@ -88,9 +88,9 @@ internetowy uruchomiliśmy w listopadzie, ale zanim do tego doszło, sprzedaliś
 4. Luty
     * Udostępniliśmy sprzedaż okładek limitowanych (dostępne tylko na naszej stronie), a potem jeszcze plakatów.
     * Byliśmy na konwencie komiksowym w Tychach, gdzie doszło
-      do [pierwszego spotkania rysownika i scenarzysty na żywo](https://www.instagram.com/p/DUf3HxLD3-z/).
+      do [pierwszego spotkania rysownika i&nbsp;scenarzysty na żywo](https://www.instagram.com/p/DUf3HxLD3-z/).
     * Sprzedaliśmy 45 komiksów (w tym 9 limitowanych).
-    * Dodatkowo sklepy domówiły 35 sztuk.
+    * Dodatkowo sklepy domówiły 40 sztuk.
     * 112 zł darowizn w naszym sklepie, ponad 5 tys. zł przychodu.
     * Zapowiadało się rekordowo. W Tychach już rozmawialiśmy z Adamem i Tomkiem o kontynuacjach, ale... ostatnie
       zamówienie wpadło w walentynki, potem jeszcze 22 lutego i... cisza.
@@ -114,7 +114,7 @@ internetowy uruchomiliśmy w listopadzie, ale zanim do tego doszło, sprzedaliś
   ponieważ wiemy, jakie są [orientacyjne koszty prac i wydania]({% post_url 2025-07-18-koszty-komiksu %}).
 * Rozeszło się już prawie 25% egzemplarzy limitowanych, 92 z 400 sztuk. Można śledzić postępy na&nbsp;bieżąco obserwując
   licznik na naszej [stronie internetowej](https://polskietermopile.pl/projekty/400/kup/limit/) 👀
-* Dodatkowo 653 komiksy standardowe, a więc prawie 40% nakładu, już krąży po świecie.
+* Dodatkowo 653 komiksy standardowe (a więc prawie 40% nakładu), już krąży po świecie.
 * Rozprowadzenie 745 egzemplarzy to dobry wynik jak na polski rynek komiksowy, ale potrzebujemy kolejnego wiatru w
   żagle.
 * Zgłaszamy się w konkursach i na wydarzenia komiksowe, myślimy o współpracy z rekonstruktorami historycznymi,
