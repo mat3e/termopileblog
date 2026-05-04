@@ -2,7 +2,7 @@
 layout: post
 title: "Podsumowanie 6 miesięcy z komiksem"
 date: 2026-04-25 15:00:00 +0100
-modified_date: 2026-04-25 15:00:00 +0100
+modified_date: 2026-05-02 22:00:00 +0100
 category: fundacja
 image: "/assets/comics.jpg"
 ---
@@ -46,10 +46,11 @@ zostało. Komiksów niedających nam bezpośrednich wpływów było więcej:
 Kolejną kategorię stanowią komiksy sprzedane po niższej cenie (np. sklepom lub szkołom), a
 nie [na naszej stronie](https://polskietermopile.pl/wsparcie.html):
 
-* Jak dotąd Gildia.pl kupiła (i zdaje się, że sprzedała) okrągłe 100 sztuk komiksu.
+* Jak dotąd Gildia.pl sprzedała okrągłe 100 sztuk komiksu i już zamówiła kolejne.
     * Pierwsze 30 egzemplarzy rozeszło się praktycznie w tydzień.
     * Następne 50 schodziło jakieś 2 miesiąca.
     * Ostatnie 20 — kolejne 2.
+    * Ostatnie zamówienie miało miejsce na koniec kwietnia. Zobaczymy jak pójdzie sprzedaż.
 * Komiksariat, Fankomiks, Komiksiarnia, BestComics i KIK to kolejne 42 komiksy.
     * Jeden ze sklepów najpierw zamówił 10, następnie 15 sztuk. Widać, że towar wyprzedał się i po jego stronie.
 * Jedna ze szkół podstawowych kupiła 10 egzemplarzy na nagrody w organizowanym przez siebie konkursie.
@@ -101,21 +102,23 @@ internetowy uruchomiliśmy w listopadzie, ale zanim do tego doszło, sprzedaliś
 6. Kwiecień
     * Udział w Poznańskim Festiwalu Sztuki Komiksowej pomógł trochę sprzedać.
     * Udało się zbudować jeszcze większe zasięgi niż w marcu, m.in. trafiając
-      na portale związane z MMA,
-      np. [Lowking.pl](https://www.lowking.pl/krzewi-polska-historie-w-brazylii-michal-oleksiejczuk-zawital-na-maty-fighting-nerds-z-prezentem-dla-caio-borralho/).
-    * Do 25.04 sprzedaliśmy 21 komiksów, w tym 7 limitowanych. 1814 zł przychodu i 2 zł darowizn.
-    * Wystartowała nasza akcja [rozdawania komiksów bibliotekom](https://polskietermopile.pl/projekty/biblioteka/)
+      na portale związane z
+      MMA ([Lowking.pl](https://www.lowking.pl/krzewi-polska-historie-w-brazylii-michal-oleksiejczuk-zawital-na-maty-fighting-nerds-z-prezentem-dla-caio-borralho/), [MMA.pl](https://mma.pl/michal-oleksiejczuk-juz-w-brazylii-z-polski-przywiozl-ze-soba-patriotyczny-upominek/),
+      profil [Sportowe Świry](https://www.facebook.com/Swirusy/posts/pfbid0Cqi6svu4aU3UNQp4kpp6kpmxKbA3j9iMySWACYW6KmEN4kAdwXD1nZF46tVB4Jtyl)).
+    * Sprzedaliśmy 38 komiksów, w tym 8 limitowanych i 20 do sklepów. Ponad 2700 zł przychodu i 2 zł darowizn.
+    * Przeprowadziliśmy akcję [rozdawania komiksów bibliotekom](https://polskietermopile.pl/projekty/biblioteka/)
       oraz [konkurs z Komiksopedią](https://komiksopedia.pl/aktualnosc/wygraj-egzemplarze-historycznego-komiksu-400/).
+      Rezultatami podzielimy się w osobnym wpisie.
 
 ## Podsumowanie
 
 * Na koncie oszczędnościowym Fundacji mamy odłożone ponad 15 tys. zł na następne projekty.
 * Chcielibyśmy wystartować z kolejnym komiksem, ale opóźniamy ten moment do czasu zabezpieczenia większej kwoty,
   ponieważ wiemy, jakie są [orientacyjne koszty prac i wydania]({% post_url 2025-07-18-koszty-komiksu %}).
-* Rozeszło się już prawie 25% egzemplarzy limitowanych, 92 z 400 sztuk. Można śledzić postępy na&nbsp;bieżąco obserwując
+* Rozeszło się już prawie 25% egzemplarzy limitowanych, 93 z 400 sztuk. Można śledzić postępy na&nbsp;bieżąco obserwując
   licznik na naszej [stronie internetowej](https://polskietermopile.pl/projekty/400/kup/limit/) 👀
-* Dodatkowo 653 komiksy standardowe (a więc prawie 40% nakładu), już krąży po świecie.
-* Rozprowadzenie 745 egzemplarzy to dobry wynik jak na polski rynek komiksowy, ale potrzebujemy kolejnego wiatru w
+* Dodatkowo 669 komiksów standardowych (prawie 40% ich nakładu), już krąży po świecie.
+* Rozprowadzenie 762 egzemplarzy to dobry wynik jak na polski rynek komiksowy, ale potrzebujemy kolejnego wiatru w
   żagle.
 * Zgłaszamy się w konkursach i na wydarzenia komiksowe, myślimy o współpracy z rekonstruktorami historycznymi,
   nagrodzimy kolejne osoby w ramach "Husarii Edukacji i Kultury", zastanawiamy się nad nową formą wydania albo nad
