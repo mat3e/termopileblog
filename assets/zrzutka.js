@@ -13,7 +13,7 @@ if (sessionStorage.getItem('buy already skipped') !== 'true' && !location.pathna
                 <button class="e-delete"><i aria-hidden="true">&times;</i></button>
             </form>
             <div class="e-card white" style="max-width: 90%;margin: 0 auto">
-                <h2 style="text-align: center;margin-bottom: 0;margin-top:.5em;color: black">KOMIKS</h2>
+                <h2 style="text-align: center;margin-bottom: 0;margin-top:.5em;color: black">KOMIKS "400"</h2>
                 <img src="https://polskietermopile.pl/comic.jpg" alt="Logo 400"/>
                 <div class="card-body" style="text-align: center">
                     <a style="margin-left: 0;color:black !important;border-color: black"

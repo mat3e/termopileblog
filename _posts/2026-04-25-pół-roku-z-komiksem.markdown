@@ -49,7 +49,7 @@ nie [na naszej stronie](https://polskietermopile.pl/wsparcie.html):
 * Jak dotąd Gildia.pl sprzedała okrągłe 100 sztuk komiksu i już zamówiła kolejne.
     * Pierwsze 30 egzemplarzy rozeszło się praktycznie w tydzień.
     * Następne 50 schodziło jakieś 2 miesiąca.
-    * Ostatnie 20 — kolejne 2.
+    * Następne 20 — kolejne 2.
     * Ostatnie zamówienie miało miejsce na koniec kwietnia. Zobaczymy jak pójdzie sprzedaż.
 * Komiksariat, Fankomiks, Komiksiarnia, BestComics i KIK to kolejne 42 komiksy.
     * Jeden ze sklepów najpierw zamówił 10, następnie 15 sztuk. Widać, że towar wyprzedał się i po jego stronie.
