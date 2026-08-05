@@ -71,7 +71,7 @@ wtedy (czasami zamiast polubień).
     * Ironia? Był to dla nas dzień przerwy i przypadkiem (podczas jazdy autem) zauważyliśmy, że zbiórka mocno ruszyła.
     * Chwilę szukaliśmy przyczyny, a i sam Miłosz opublikował informacje w wielu miejscach, nie tylko w podlinkowanym
       wpisie.
-7. `2025-05-26`-`2025-07-20`: kolejne reklamy Meta.
+7. `2025-06-26`-`2025-07-20`: kolejne reklamy Meta.
     * Rolka, stworzona zgodnie z wytycznymi Meta (max 15 sekund itp.).
     * Duża popularność [reklamowanego posta](https://www.facebook.com/reel/1441924843658692) (efekt uboczny, bo celem
       kampanii była "sprzedaż" rozumiana jako odpowiednia interakcja na Zrzutka.pl).
