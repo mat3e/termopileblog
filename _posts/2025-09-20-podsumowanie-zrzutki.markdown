@@ -105,7 +105,7 @@ wtedy (czasami zamiast polubień).
     * Warto odnotować, że oprócz opłat mieliśmy kilka interakcji ze Zrzutką np. pod postem Miłosza na X. Być może
       pomogło to w podjęciu decyzji o wyróżnieniu.
     * Ciekawostka 2: dopiero po 2-3 dniach post na Facebooku stał się bardziej popularny i zaczął zyskiwać 100+ polubień
-      dziennie. Początek tego nie zapowiadał. Pomogło chyba jakieś prywatne udostępnienie (w jakiejś grupie?).
+      dziennie. Początek tego nie zapowiadał. Podejrzewamy, że pomogło jakieś udostępnienie (w jakiejś grupie?).
 14. `2025-07-23 12:30`:
     [Kolejny artykuł (Betoniarka)](https://betoniarka.net/400-komiks-o-bitwie-ktora-przeszla-do-historii-jako-polskie-termopile-wesprzyj-projekt/).
 15. `2025-07-25 8:00`: [pierwszy wywiad — vlog Comixxy](https://www.youtube.com/watch?v=4A06daNdUPg) (pokazanie twarzy).
