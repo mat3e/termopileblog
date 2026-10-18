@@ -66,10 +66,11 @@ Uczestniczyliśmy też w kilku imprezach komiksowych. Dwie można mocniej powią
 ## Bibliotekowa "Husaria Edukacji i Kultury"
 
 Cały czas prowadzimy [akcję o dźwięcznym skrócie HEiK](https://polskietermopile.pl/projekty/heik/), gdzie nagradzamy
-różne osoby propagujące historię Polski, kulturę, edukujące społeczeństwo itp. Podziękowania trafiły do różnych osób
-związanych z bibliotekami, ale nagrodziliśmy też m.in. Pawła Deptucha, będącego już w posiadaniu "400". Założyciel
-Komiksopedii przekazał swój dodatkowy egzemplarz do Biblioteki Publicznej w Ulesiu, gdzie rozwinął w sobie kiedyś pasję
-do komiksów.
+różne osoby propagujące historię Polski, kulturę, edukujące społeczeństwo itp.
+
+Podziękowania trafiły do różnych osób związanych z bibliotekami, ale nagrodziliśmy też m.in. Pawła Deptucha, będącego
+już w posiadaniu "400". Założyciel Komiksopedii przekazał swój dodatkowy egzemplarz do Biblioteki Publicznej w Ulesiu,
+gdzie rozwinął w sobie kiedyś pasję do komiksów.
 
 ## Liczby
 
@@ -79,11 +80,11 @@ Stan na dzień pisania artykułu (18.10.2026)
 
 - Wysłaliście 112 zgłoszeń!
 - Wyłoniliśmy 35 unikalnych bibliotek
-- Dodaliśmy do placówki w Ulesiu i Świdwinie 
-- Biblioteka Szkoły Podstawowej nr 9 w Legnicy dostała 2 sztuki ze względu na największą liczbę głosów 
+- Dodaliśmy do tego placówki w Ulesiu i Świdwinie
+- Biblioteka Szkoły Podstawowej nr 9 w Legnicy dostała 2 sztuki ze względu na największą liczbę głosów
 - Razem z obowiązkowymi mamy więc
-   - 51 bibliotek na liście (49 już z komiksami)
-   - 53 już przekazanych egzemplarzy (w tym 1 limitowany)
+    - 51 bibliotek na liście (49 już z komiksami)
+    - 53 już przekazanych egzemplarzy (w tym 1 limitowany)
 
 Jeśli czytają nas
 
